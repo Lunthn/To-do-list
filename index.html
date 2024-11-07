@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To-do-JS</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="to-do-container" id="container">
+      <h1>To-do list</h1>
+      <p id="task-status">New Task</p>
+      <input type="text" id="task-input" placeholder="Example: Buy milk" />
+      <button onclick="addTask()">Add Task</button>
+
+      <div class="filter-items">
+        <div class="show-time">
+          <span>
+            <input type="checkbox" id="show-time" />
+            <label for="show-time">Show Time</label>
+          </span>
+        </div>
+        <div class="show-done">
+          <span>
+            <input type="checkbox" id="show-done" />
+            <label for="show-done">Show Done</label>
+          </span>
+        </div>
+      </div>
+      <div class="to-do-items" id="to-do-items">
+        
+      </div>
+
+      <div class="to-do-items" id="finished-items"></div>
+      <div class="totals">
+        <p id="total-items"></p>
+        <p id="total-finished">Total finished tasks:</p>
+      </div>
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>
