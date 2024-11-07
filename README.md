@@ -3,6 +3,7 @@ I made a pretty basic to-do list to learn the basics of JavaScipt. There are som
 
 Cropped screenshots: 
 <br>
+<br>
 <img src="screenshots/screenshot1.png">
 <br>
 <img src="screenshots/screenshot2.png">
