@@ -4,10 +4,12 @@ I made a pretty basic to-do list to learn the basics of JavaScipt. There are som
 Cropped screenshots: 
 <br>
 <br>
-<img src="screenshots/screenshot2.png">
+<img src="./screenshot2.png">
 <br>
-<img src="screenshots/screenshot3.png">
 <br>
-<img src="screenshots/screenshot5.png">
+<img src="./screenshot3.png">
+<br>
+<br>
+<img src="./screenshot5.png">
 <br>
 <br>
