@@ -7,7 +7,7 @@ Cropped screenshots:
 <img src="screenshots/screenshot2.png">
 <br>
 <br>
-<img src="sreenshots/screenshot3.png">
+<img src="screenshots/screenshot3.png">
 <br>
 <br>
 <img src="screenshots/screenshot5.png">
